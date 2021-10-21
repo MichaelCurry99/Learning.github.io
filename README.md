@@ -1,4 +1,4 @@
-# What-I've-Learned-Using-Repos
+# What I've Learned Using Repos
 
 I now know the basics of how to setup text styles in a different way, such as adding bold and italic fonts to experiment on how the repository works. I've had 
 a small problem when it came to using some of the coding, since I usually use replit to add images and links. Although the coding works differently, I feel like I
