@@ -7,3 +7,5 @@ be my best now, continuing to add more different features on GitHub will help me
 of coding.
      
 The first time Markdown was mentioned, it had to have been a part of the repository that made certain codes to do certain things. When coding them, I can remember what is to insert an image, bold, link, paragraph, and much more. Now that I know some of the basics, it's time to learn more of how to code using GitHub. I feel like this is the best way to learn and that is by continually learning new ways to do things in your field. Hopefully, I can grasp as much as I can when it comes to coding!
+
+[Page 3: Knowing How to Use Terminal](https://michaelcurry99.github.io/CoderCOMP.github.io/) ➡
